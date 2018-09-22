@@ -18,7 +18,7 @@ import 'swiper/dist/css/swiper.css'
 import VueQuillEditor from 'vue-quill-editor'           // 富文本编辑器
 import Croppa from 'vue-croppa'              // 图片剪裁工具
 
-// 自定义组件
+// 自定义组件,哈哈哈
 import myHeader from '@/components/myHeader'            // header组件
 import myLoading from '@/components/loading'            // loading组件
 import myError from '@/components/error'                // error组件
